@@ -199,7 +199,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Supply chain.gif](https://github.com/Sanjay-saini-29/Business-360/blob/main/Resource/SupplyChainView.gif)
 
 
-you can find the full report file here : [Report]()
+you can find the full report file here : [Report](https://github.com/Sanjay-saini-29/Business-360/blob/main/Resource/Business%20360%20Report.pdf)
 
 
 ## Project Outcome
