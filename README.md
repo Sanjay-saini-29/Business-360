@@ -189,7 +189,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif]()
+![Finace.gif](https://github.com/Sanjay-saini-29/Business-360/blob/main/Resource/FinanceView.gif)
 ## Sales View
 
 ![Sales.gif]()
