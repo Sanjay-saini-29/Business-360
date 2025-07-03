@@ -183,10 +183,6 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Overall Report.gif](https://github.com/Sanjay-saini-29/Business-360/blob/main/Resource/HomePage.gif)
 
-## Info Page
-
-![Info.gif]()
-
 ## Finance View
 
 ![Finace.gif](https://github.com/Sanjay-saini-29/Business-360/blob/main/Resource/FinanceView.gif)
@@ -200,15 +196,8 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Supply chain View
 
-![Supply chain.gif]()
+![Supply chain.gif](https://github.com/Sanjay-saini-29/Business-360/blob/main/Resource/SupplyChainView.gif)
 
-## Executive View
-
-![Executive.gif])
-
-## Products
-
-![Products]()
 
 you can find the full report file here : [Report]()
 
